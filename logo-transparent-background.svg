@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     id="aias-logo-transparent-background"
+     version="1.0"
+     viewBox="0 0 650 400">
+  <g id="aias-group"
+     style="height:650px; width:400px;">
+    <text y="265"
+          style="font-size:398px; font-family:Cambria Math;">
+      aias
+    </text>
+    <text x="10"
+          y="375"
+          style="font-size:125px; font-family:Cambria Math;">
+      engineering
+    </text>
+  </g>
+</svg>
