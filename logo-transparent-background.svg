@@ -2,16 +2,17 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      id="aias-logo-transparent-background"
      version="1.0"
-     viewBox="0 0 650 400">
+     viewBox="0 0 1280 720">
   <g id="aias-group"
-     style="height:650px; width:400px;">
-    <text y="265"
-          style="font-size:398px; font-family:Cambria Math;">
+     style="width:1280px; height:720px;">
+    <text x="56"
+          y="490"
+          style="font-size:700px; font-family:Cambria Math;">
       aias
     </text>
-    <text x="10"
-          y="375"
-          style="font-size:125px; font-family:Cambria Math;">
+    <text x="72"
+          y="665"
+          style="font-size:220px; font-family:Cambria Math;">
       engineering
     </text>
   </g>
