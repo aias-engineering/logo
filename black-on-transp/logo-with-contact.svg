@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id="logo-with-contact-black-on-transparent"
+     version="1.0"
+     viewBox="0 0 1280 720">
+  <style type="text/css" >
+    <![CDATA[
+      text {
+         font-size: 100px;
+         font-family: Cambria Math;
+      }
+    ]]>
+  </style>
+  <defs>
+    <text id="aias-text">aias</text>
+    <text id="engineering-text">engineering</text>
+  </defs>
+  <g transform="matrix(0.9, 0, 0, 0.9, 60, 660)">
+    <use xlink:href="#aias-text"
+         transform="matrix(7, 0, 0, 7, 56, -230)" />
+    <use xlink:href="#engineering-text"
+         transform="matrix(2.20, 0, 0, 2.20, 72, -55)" />
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 720)">
+    <text transform="matrix(0.4, 0, 0, 0.4, 135, -5)">
+      manuel.markwalder@aias.ch
+    </text>
+    <text transform="matrix(0.4, 0, 0, 0.4, 820, -5)">
+        +41 79 542 94 62
+    </text>
+  </g>
+</svg>
